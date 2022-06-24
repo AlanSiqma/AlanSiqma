@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com engenharia de software
 - 🌱 Estudando arquitetura de soluções
-- 📫 contatee-me no email: alansiqma@gamil.com
+- 📫 contatee-me no email: alansiqma@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
