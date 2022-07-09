@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alan Siqueira Maia
 
-- 🔭 Hoje trabalho com engenharia de software
+- 🔭 Hoje trabalho como engenheiro de software
 - 🌱 Estudando arquitetura de soluções
 - 📫 contatee-me no email: alansiqma@gmail.com
 - 😄 Pronouns: ele/dele
