@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como engenheiro de software
 - 🌱 Estudando arquitetura de soluções
-- 📫 contatee-me no email: alansiqma@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -20,7 +19,7 @@
   <img align="center" alt="Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "> 
 </div>
 
-## Outros contatos:
+## contatos:
 
 <div> 
   <a href="https://instagram.com/alansiqma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
