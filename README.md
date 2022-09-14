@@ -1,8 +1,13 @@
-## Olá! Eu sou o Alan Siqueira Maia
+## Olá, Eu sou o Alan 👋
+Brasileiro, casado, 30 anos, pai da Maria Luisa 🤰 (ela está no forninho).
 
-- 🔭 Hoje trabalho como engenheiro de software
-- 🌱 Estudando arquitetura de soluções
-- 😄 Pronouns: ele/dele
+Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
+
+Cerficado como Scrum Master.
+
+Trabalho atualmente no banco Itau como Engenheiro de Software.
+
+Gosto de estudar, ler, programar e claro muito cafe ☕
 
 <div align="center">
   <a href="https://github.com/alansiqma">
