@@ -37,5 +37,5 @@ Gosto de estudar, ler, programar e claro muito cafe ☕
   </a>
 </div>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-snake.svg)
 
