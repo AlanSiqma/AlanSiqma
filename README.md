@@ -37,5 +37,5 @@ Gosto de estudar, ler, programar e claro muito cafe ☕
   </a>
 </div>
 
-![GitHub Snake Light](github-snake.svg)
+![GitHub Snake Light](https://github.com/AlanSiqma/AlanSiqma/blob/output/github-snake.svg)
 
