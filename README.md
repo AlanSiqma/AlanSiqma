@@ -46,7 +46,7 @@ Gosto de estudar, ler, programar e claro muito cafe ☕
  	<a href = "mailto:alansiqma@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/alan-siqueira-maia-b2416448" target="_blank">
+  <a href="https://www.linkedin.com/in/alansiqma" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
