@@ -53,6 +53,6 @@ Gosto de estudar, ler, programar e claro muito cafe ☕
   </a>
 </div>
 
-## 🐎 Histórico git hub:
+## 🐎 Histórico github:
 ![GitHub Snake Light](https://github.com/AlanSiqma/AlanSiqma/blob/output/github-snake.svg)
 
