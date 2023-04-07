@@ -51,6 +51,9 @@ Gosto de estudar, ler, programar e claro muito cafe ☕
   <a href="https://www.linkedin.com/in/alansiqma" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <a href="https://alansiqma.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ## 🐎 Histórico github:
