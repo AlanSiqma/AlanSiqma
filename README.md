@@ -7,7 +7,7 @@ Cerficado como Scrum Master.
 
 Trabalho atualmente no banco Itau como Engenheiro de Software.
 
-Gosto de estudar, ler, programar e claro muito cafe ☕
+Gosto de: estudar, ler, programar e claro muito cafe ☕
 
 <div align="center">
   <a href="https://github.com/alansiqma">
