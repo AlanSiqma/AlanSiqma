@@ -3,7 +3,7 @@ Brasileiro, casado, 30 anos, pai da Maria Luísa 👧.
 
 Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
 
-Cerficado como Scrum Master.
+Cerficado em Scrum Master e em AWS Certified Cloud Practitioner.
 
 Trabalho atualmente no banco Itau como Engenheiro de Software.
 
