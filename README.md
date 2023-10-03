@@ -5,7 +5,7 @@ Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
 
 Certificado como Scrum Master pela Scrum.Org e em AWS Certified Cloud Practitioner.
 
-Trabalho atualmente no banco Itau como Engenheiro de Software.
+Trabalho atualmente no banco Itau como Arquiteto de Soluções.
 
 Gosto de: estudar, ler, programar e claro muito cafe ☕
 
