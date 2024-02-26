@@ -43,7 +43,7 @@ Gosto de: estudar, ler, programar e claro muito cafe ☕
 ## ☎️ Contatos:
 
 <div> 
-  <a href="https://instagram.com/alansiqma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/_alansiqma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
  	<a href = "mailto:alansiqma@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
