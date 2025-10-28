@@ -1,11 +1,11 @@
 ## Olá, Eu sou o Alan 👋
-Brasileiro, casado, 32 anos, pai da Maria Luísa 👧.
+Brasileiro, casado, 33 anos, pai da Maria Luísa 👧.
 
 Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
 
 Certificado como Scrum Master pela Scrum.Org e em AWS Certified Cloud Practitioner.
 
-Trabalho atualmente no banco Itau como Arquiteto de Soluções.
+Trabalho atualmente no banco Bradesco como Arquiteto de Soluções.
 
 Gosto de: estudar, ler, programar e claro muito cafe ☕
 
