@@ -7,7 +7,6 @@ I'm a **Senior .NET & Cloud Engineer**, passionate about designing and building 
 📜 **Scrum Master Certified (Scrum.org)**  
 📜 **AWS Certified Cloud Practitioner**  
 📜 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-🏦 **Currently working as a Solution Architect at Bradesco**
 
 I enjoy studying, reading, programming, and—of course—a lot of coffee ☕  
 I'm committed to continuous improvement, strong engineering practices, and writing simple, maintainable, and resilient systems.
